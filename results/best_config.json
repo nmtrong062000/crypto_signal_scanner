@@ -1,0 +1,9 @@
+{
+    "ema_short": 10,
+    "ema_mid": 25,
+    "ema_long": 40,
+    "bb_std": 2.0,
+    "vol_mult": 2.0,
+    "win_rate": 100.0,
+    "avg_profit": 1.9999999999999956
+}
